@@ -17,6 +17,7 @@
   },
   "author": "Miguel Camba",
   "license": "MIT",
+  "main": "lib/ember-fastboot-test-helpers.js",
   "devDependencies": {
     "ember-cli": "2.3.0-beta.2",
     "ember-cli-release": "0.2.8",
@@ -28,15 +29,12 @@
     "qunit-extras": "^1.4.0",
     "qunitjs": "^1.20.0",
     "request": "^2.69.0",
-    "rsvp": "^3.0.16"
+    "rsvp": "^3.0.16",
+    "ember-cli-fastboot": "^0.4.2"
   },
   "keywords": [
-    "ember-addon"
   ],
   "dependencies": {
     "ember-cli-babel": "^5.1.5"
-  },
-  "ember-addon": {
-    "configPath": "tests/dummy/config"
   }
 }
