@@ -1,6 +1,6 @@
 {
   "name": "ember-fastboot-test-helpers",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Test helpers for fastboot",
   "directories": {
     "doc": "doc",
@@ -23,7 +23,7 @@
     "ember-cli-release": "0.2.8",
     "ember-resolver": "^2.0.3",
     "ember-try": "~0.0.8",
-    "loader.js": "^4.0.0",
+    "loader.js": "^4.0.0"
   },
   "keywords": [],
   "dependencies": {
