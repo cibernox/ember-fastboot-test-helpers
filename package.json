@@ -36,6 +36,6 @@
     "rsvp": "^3.0.16"
   },
   "peerDependencies": {
-    "ember-cli-fastboot": "*"
+    "ember-cli-fastboot": "ember-fastboot/ember-cli-fastboot#749f199d5afe0a5f787114e1583c806fb7bbd2c2"
   }
 }
